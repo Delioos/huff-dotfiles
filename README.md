@@ -14,3 +14,4 @@ I debug using a combination of
 
 ## note
 It appears that a linter was developped by the commmunity but I didn't dug into it yet because I'm still in the early stage of my learning.
+Also, for wider codebase, I plan to dive into [balls](https://github.com/Philogy/balls) an
